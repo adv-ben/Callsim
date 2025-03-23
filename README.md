@@ -1,5 +1,7 @@
-# Event-based call center simulation
+# callsim 
 
-This repo contains an event based call center simulation written in Python
+An event based call center simulation written in Python
 
-Version that includes logging WIP
+## TODO
+Logging
+Tests
